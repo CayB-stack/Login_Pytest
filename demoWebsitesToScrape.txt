@@ -1,0 +1,6 @@
+https://webscraper.io/test-sites/tables
+https://webscraper.io/test-sites/e-commerce/allinone
+https://www.scrapethissite.com/pages/
+https://toscrape.com/
+https://books.toscrape.com/
+https://quotes.toscrape.com/
